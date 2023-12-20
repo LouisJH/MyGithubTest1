@@ -7,7 +7,7 @@ int LED_PIN = 3;   //the digital pin connected to the Output Status LED
 int ISD_PIN = 4;  //the digital pin connected to ISD1820's P-E Pin
 
 ////
-//SETUP
+//SETUP  only for test
 void setup(){
 //Serial.begin(9600);
 pinMode(PIR_PIN, INPUT);
